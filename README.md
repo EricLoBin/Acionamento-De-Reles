@@ -22,6 +22,8 @@ _Para mais informação acesse a [Wiki][wiki]._
 
 ## Contribuitors
 
+Eric Loges Binsfeld – [GitHub](https://github.com/EricLoBin/) - [@ericlbins](https://www.instagram.com/ericlbins/) – eric.binsfeld@ifb.edu.br
+
 Wanghley Soares Martins - [Github](https://github.com/Wanghley/) – [@wanghley](https://www.instagram.com/Wanghley/) – wanghley.soares.martins@gmail.com
 
 ## Contributing
